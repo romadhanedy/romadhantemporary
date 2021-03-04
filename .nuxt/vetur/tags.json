@@ -1,0 +1,26 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "IconsIcAperture": {
+    "description": "Auto imported from components/icons/IcAperture.vue"
+  },
+  "IconsIcInfo": {
+    "description": "Auto imported from components/icons/IcInfo.vue"
+  },
+  "IconsIcNext": {
+    "description": "Auto imported from components/icons/IcNext.vue"
+  },
+  "LayoutsHeader": {
+    "description": "Auto imported from components/layouts/Header.vue"
+  },
+  "SharedHero": {
+    "description": "Auto imported from components/shared/Hero.vue"
+  },
+  "WaveBottom": {
+    "description": "Auto imported from components/wave/WaveBottom.vue"
+  },
+  "WaveTop": {
+    "description": "Auto imported from components/wave/WaveTop.vue"
+  }
+}

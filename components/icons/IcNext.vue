@@ -1,0 +1,3 @@
+<template>
+  <svg id="SVGDoc" width="18" height="12" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 18 12" class="Button___StyledSvg-l325es-1 cTdcxw"><defs></defs><desc>Generated with Avocode.</desc><g><g><title>tail-right</title><g><title>Path</title><path d="M1,5.5h16" fill-opacity="0" fill="#ffffff" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="1" stroke="#ffffff" stroke-miterlimit="20" stroke-width="2"></path></g><g><title>Path</title><path d="M12,1v0l5,5v0l-5,5v0" fill-opacity="0" fill="#ffffff" stroke-linejoin="round" stroke-linecap="round" stroke-opacity="1" stroke="#ffffff" stroke-miterlimit="20" stroke-width="2"></path></g></g></g></svg>
+</template>
